@@ -50,11 +50,12 @@ const Navbar = () => {
               <li>
                 <a
                   href="#_"
-                  className="relative inline-flex items-center justify-center inline-block p-4 px-5 py-3 overflow-hidden font-medium text-indigo-600 rounded-lg shadow-2xl group"
+                  class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-orange-300   rounded-md shadow-sm  "
+                  data-rounded="rounded-md"
+                  // data-primary="blue-600"
+                  data-primary-reset="{}"
                 >
-                  <span className="absolute top-0 left-0 w-40 h-40 -mt-10 -ml-3 transition-all duration-700 bg-orange-300  ease"></span>
-                  <span className="absolute inset-0 w-full h-full transition duration-700 group-hover:rotate-180 ease"></span>
-                  <span className="relative text-white">APPOINTMENT</span>
+                  APPOINTMNET
                 </a>
               </li>
             </ul>
