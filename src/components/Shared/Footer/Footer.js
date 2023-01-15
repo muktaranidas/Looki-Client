@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="footer h-2/4	grid lg:grid-cols-3    mt-32 p-10 bg-black text-white rounded">
+    <footer className="footer h-2/4	grid lg:grid-cols-3  mb-0  mt-32 p-10 bg-black text-white rounded">
       <div className="mx-auto">
         <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
       </div>
