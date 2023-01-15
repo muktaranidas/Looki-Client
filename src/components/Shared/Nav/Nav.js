@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import { FiPhone } from "react-icons/fi";
 
 const Nav = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -9,8 +10,8 @@ const Nav = () => {
       <div className="relative flex grid items-center grid-cols-1 lg:grid-cols-2">
         <ul className="flex items-center hidden  lg:flex">
           <Link className="ml-6">
-            <a href="/" className=" text-gray-600   duration-200 ">
-              <FontAwesomeIcon icon="fa-thin fa-phone" className="text-black" />
+            <a href="/" className=" text-gray-600 inline-block  duration-200 ">
+              <FiPhone></FiPhone>
               Help line 01302-564259
             </a>
           </Link>

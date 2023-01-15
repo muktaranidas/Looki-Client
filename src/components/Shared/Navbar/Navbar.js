@@ -3,6 +3,7 @@ import navLogo from "../../../assets/navLogo.jpg";
 // import profile from "../../../assets/profile.png";
 import { HiOutlineShoppingBag, HiUser, IconName } from "react-icons/hi";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { IoIosSearch, IoSearchOutline } from "react-icons/io";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -58,10 +59,10 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <ul className="flex items-center hidden space-x-8 lg:flex">
-            {/* <li>
-              <IoSearchOutline></IoSearchOutline>
-            </li> */}
+          <ul className="hidden items-center space-x-8 lg:flex">
+            <li>
+              <IoIosSearch className="text-white text-4xl"></IoIosSearch>
+            </li>
 
             <li>
               <HiUser className="text-white text-4xl"></HiUser>
