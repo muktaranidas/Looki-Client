@@ -82,8 +82,16 @@ const Navbar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu text-white menu-horizontal px-1">
-          <li>
+          <li tabIndex={0}>
             <a>SKIN CARE</a>
+            <ul className="p-2 text-black">
+              <li>
+                <a>Submenu 1</a>
+              </li>
+              <li>
+                <a>Submenu 2</a>
+              </li>
+            </ul>
           </li>
           <li tabIndex={0}>
             <a>TREATMENT</a>
@@ -120,7 +128,6 @@ const Navbar = () => {
           <li>
             <IoIosSearch className="text-white text-4xl"></IoIosSearch>
           </li>
-
           <li>
             <HiUser className="text-white text-4xl"></HiUser>
           </li>

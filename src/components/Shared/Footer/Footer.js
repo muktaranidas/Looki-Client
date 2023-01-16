@@ -27,7 +27,7 @@ const Footer = () => {
           <IoLogoYoutube className="text-3xl p-2 rounded-full  bg-red-600"></IoLogoYoutube>
         </div>
       </div>
-      <div className=" mx-auto grid grid-flow-col gap-1.5 mr-8 ">
+      <div className=" mx-auto grid grid-flow-col gap-1.5 lg:mr-8 ">
         <img src={bkashLogo} alt="" className="w-6 h-6 bg-white  " />
         <img src={nagadLogo} alt="" className="w-6 h-6 bg-white" />
         <img src={rocketLogo} alt="" className="w-6 h-6 bg-white" />

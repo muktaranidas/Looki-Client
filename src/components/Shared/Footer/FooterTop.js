@@ -164,9 +164,9 @@ const FooterTop = () => {
                 >
                   Appointment
                 </a>
-                <div className="flex flex-row border-2 px-2   rounded-md">
-                  <img src={googlePlay} alt="" className="w-7 h-8 mt-1" />
-                  <div>
+                <div className="lg:flex flex-row border-2 px-2 sm:hidden rounded-md">
+                  <img src={googlePlay} alt="" className="w-7 h-8 mt-1 " />
+                  <div className="">
                     <h1 className="text-gray-300 text-sm">GET IT ON</h1>
                     <h1 className="text-white font-bold ">Google Play</h1>
                   </div>
