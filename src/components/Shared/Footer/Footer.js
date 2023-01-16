@@ -7,10 +7,15 @@ import {
 } from "react-icons/io5";
 import { FaFacebookF } from "react-icons/fa";
 import { FaCcVisa } from "react-icons/fa";
+import nagadLogo from "../../../assets/Nagad-Logo.png";
+import bkashLogo from "../../../assets/BKash-Logo.svg";
+import rocketLogo from "../../../assets/dutch-bangla-rocket-logo.png";
+import upai from "../../../assets/Upai.png";
+import unnamed from "../../../assets/unnamed.png";
 
 const Footer = () => {
   return (
-    <footer className="footer 	grid lg:grid-cols-3    p-6 footerbgcolor text-white">
+    <footer className="footer 	grid lg:grid-cols-3  relative  p-6 footerbgcolor text-white">
       <div className="mx-auto">
         <p>Copyright 2023 © Bio-Xin Cosmeceuticals </p>
       </div>
@@ -22,12 +27,12 @@ const Footer = () => {
           <IoLogoYoutube className="text-3xl p-2 rounded-full  bg-red-600"></IoLogoYoutube>
         </div>
       </div>
-      <div className=" mx-auto grid grid-flow-col gap-0.5">
-        <FaCcVisa className="text-4xl p-1  "></FaCcVisa>
-        <FaCcVisa className="text-4xl p-1  "></FaCcVisa>
-        <FaCcVisa className="text-4xl p-1  "></FaCcVisa>
-        <FaCcVisa className="text-4xl p-1  "></FaCcVisa>
-        <FaCcVisa className="text-4xl p-1  "></FaCcVisa>
+      <div className=" mx-auto grid grid-flow-col gap-1.5 mr-8 ">
+        <img src={bkashLogo} alt="" className="w-6 h-6 bg-white  " />
+        <img src={nagadLogo} alt="" className="w-6 h-6 bg-white" />
+        <img src={rocketLogo} alt="" className="w-6 h-6 bg-white" />
+        <img src={upai} alt="" className="w-6 h-6 bg-white" />
+        <img src={unnamed} alt="" className="w-6 h-6 bg-white" />
       </div>
     </footer>
   );

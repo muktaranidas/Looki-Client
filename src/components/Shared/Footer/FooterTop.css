@@ -1,6 +1,6 @@
 .bodyBackgroundClass {
   background-color: #231f20;
-  color: gray;
+  color: rgb(193, 188, 188);
 }
 .headerColor {
   color: rgb(249, 202, 115);
@@ -10,4 +10,7 @@
 }
 .footer-corporate-office {
   color: rgb(220, 153, 29);
+}
+.google-color {
+  color: #3bccff;
 }
