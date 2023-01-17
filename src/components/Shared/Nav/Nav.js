@@ -147,16 +147,15 @@ const Nav = () => {
               |
             </Link>
           </li>
-          <li className="flex">
-            <Link
-              to="/users/login"
+          <Link to="/users/login" className="flex">
+            <a
               rel="noopener noreferrer"
               href="#"
               className="flex items-center  -mb-1"
             >
               Login
-            </Link>
-          </li>
+            </a>
+          </Link>
           <li className="flex text-black">
             <Link
               rel="noopener noreferrer"
@@ -166,16 +165,15 @@ const Nav = () => {
               |
             </Link>
           </li>
-          <li className="flex">
-            <Link
-              to="/users/register"
+          <Link to="/users/register" className="flex">
+            <a
               rel="noopener noreferrer"
               href="#"
               className="flex items-center  -mb-1"
             >
               Registration
-            </Link>
-          </li>
+            </a>
+          </Link>
         </ul>
         <button className="flex justify-end p-4 md:hidden">
           <svg

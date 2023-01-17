@@ -10,8 +10,6 @@ const Main = () => {
   return (
     <div>
       <Header></Header>
-      <Nav></Nav>
-      <Navbar></Navbar>
       <Outlet></Outlet>
       <FooterTop></FooterTop>
     </div>
