@@ -4,6 +4,7 @@ import navLogo from "../../../assets/navLogo.jpg";
 import { HiOutlineShoppingBag, HiUser, IconName } from "react-icons/hi";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { IoIosSearch, IoSearchOutline } from "react-icons/io";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -78,7 +79,9 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <img className="w-32" src={navLogo} alt="" />
+        <Link to="/">
+          <img className="w-32" src={navLogo} alt="" />
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu text-white menu-horizontal px-1">

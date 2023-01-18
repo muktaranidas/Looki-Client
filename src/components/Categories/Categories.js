@@ -54,8 +54,8 @@ const Categories = () => {
   ];
 
   return (
-    <div className="">
-      <div className="flex items-center pt-4 mt-12">
+    <div>
+      <div className="flex items-center pt-4 mt-4">
         <div className="flex-1 h-px  sm:w-16 bg-orange-200"></div>
         <p className="px-3 text-2xl text-black font-semibold border border-orange-700 p-2 ">
           Shop By Category
