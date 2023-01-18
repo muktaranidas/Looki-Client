@@ -86,7 +86,7 @@ export default function App() {
         onSwiper={(swiper) => console.log(swiper)}
         onSlideChange={() => console.log("slide change")}
       >
-        <div className="">
+        <div>
           {featuredProducts.map((featuredProduct) => (
             <SwiperSlide key={featuredProduct.id}>
               <FeaturedProduct
