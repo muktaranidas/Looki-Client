@@ -74,11 +74,12 @@ const NewArrival = () => {
         </h1>
         <img src={img1} alt="" className=" p-8 w-screen	" />
       </div>
-      {/* <div className="col-span-3">
+      <div className="col-span-3">
         <Swiper
           slidesPerView={3}
           grid={{
             rows: 2,
+            cols: 3,
           }}
           spaceBetween={20}
           pagination={{
@@ -95,7 +96,7 @@ const NewArrival = () => {
             ))}
           </div>
         </Swiper>
-      </div> */}
+      </div>
       <></>
     </div>
   );
