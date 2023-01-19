@@ -8,6 +8,8 @@ import PersonalizedTreatment from "../../PersonalizedTreatment/PersonalizedTreat
 import BestSelling from "../../BestSelling/BestSelling";
 import OurTestimonial from "../../OurTestimonial/OurTestimonial";
 import TreatmentsBySkinConcern from "../../TreatmentsBySkinConcern/TreatmentsBySkinConcern";
+import YourGift from "../../YourGift/YourGift";
+import BlogAndVlog from "../../BlogAndVlog/BlogAndVlog";
 
 const Home = () => {
   return (
@@ -21,6 +23,8 @@ const Home = () => {
       <PersonalizedTreatment></PersonalizedTreatment>
       <TreatmentsBySkinConcern></TreatmentsBySkinConcern>
       {/* <OurTestimonial></OurTestimonial> */}
+      <YourGift></YourGift>
+      <BlogAndVlog></BlogAndVlog>
     </div>
   );
 };
