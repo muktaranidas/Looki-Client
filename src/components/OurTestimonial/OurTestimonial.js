@@ -2,86 +2,127 @@ import React from "react";
 
 const OurTestimonial = () => {
   return (
-    <section className="my-8">
-      <div className="container mx-auto flex flex-col items-center pb-6 mb-4 md:p-10 md:px-12">
-        <h1 className="text-4xl font-semibold leading-none text-center">
-          What our customers are saying about us
+    <section className=" bg-white ">
+      <div className="container flex flex-col items-center mx-auto mb-12 md:p-10 md:px-12">
+        <h1 className="p-4 uppercase text-2xl  leading-none text-center">
+          our testimonial
+        </h1>
+        <h1 className=" uppercase text-2xl  leading-none text-center">*</h1>
+        <h1 className=" uppercase text-4xl uppercase  font-semibold leading-none text-center">
+          what's our customer say
         </h1>
       </div>
-      <div className="container mx-auto grid grid-cols-1 gap-8 lg:gap-20 md:px-10 md:pb-10 lg:grid-cols-2">
-        <div className="flex flex-col items-center mx-12 lg:mx-0">
-          <div className="relative text-center">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              fill="currentColor"
-              className="absolute top-0 left-0 w-8 h-8 dark:text-gray-700"
-            >
-              <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
-              <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
-            </svg>
-            <p className="px-6 py-1 text-lg italic">
+      <div className="container flex flex-col items-center justify-center mx-auto lg:flex-row lg:flex-wrap lg:justify-evenly lg:px-10">
+        <div className="flex flex-col max-w-sm mx-4 mb-16 ">
+          <div className="flex flex-col items-center justify-center p-8 rounded-b-lg dark:bg-violet-400 dark:text-gray-900">
+            <img
+              src="https://source.unsplash.com/50x50/?portrait?1"
+              alt=""
+              className="w-28 h-28 -mt-16 bg-center bg-cover rounded-full dark:bg-gray-500 dark:bg-gray-700"
+            />
+            <p className="text-xl font-semibold leading-tight">
+              Distinctio Animi
+            </p>
+          </div>
+          <div className="rounded-t-lg sm:px-8 md:px-12 dark:bg-gray-900">
+            <p className="relative text-lg  text-center">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="w-6 h-6 dark:text-violet-400"
+              >
+                <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
+                <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
+              </svg>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               Voluptatibus quibusdam, eligendi exercitationem molestias possimus
               facere.
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="absolute right-0 w-8 h-8 dark:text-violet-400"
+              >
+                <path d="M280,185.143V416H496V16H457.6ZM464,384H312V198.857L464,54.1Z"></path>
+                <path d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"></path>
+              </svg>
             </p>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              fill="currentColor"
-              className="absolute bottom-0 right-0 w-8 h-8 dark:text-gray-700"
-            >
-              <path d="M280,185.143V416H496V16H457.6ZM464,384H312V198.857L464,54.1Z"></path>
-              <path d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"></path>
-            </svg>
           </div>
-          <img
-            src="https://media.istockphoto.com/id/1216152397/photo/portrait-of-female-owner-of-gift-store-standing-in-front-of-shelves-with-cosmetics-and-candles.jpg?s=612x612&w=0&k=20&c=23L_GhirOBiExv00QPw555TiTsSrZqhFii2F89CHXVE="
-            alt=""
-            className="w-1/5 rounded-full"
-          />
-          <span className="w-12 h-1 my-2 rounded-lg dark:bg-violet-400"></span>
-          <p>Leroy Jenkins</p>
         </div>
-        <div className="flex flex-col items-center max-w-lg mx-12 lg:mx-0">
-          <div className="relative text-center">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              className="absolute top-0 left-0 w-8 h-8 dark:text-gray-700"
-            >
-              <path
-                fill="currentColor"
-                d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"
-              ></path>
-              <path
-                fill="currentColor"
-                d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"
-              ></path>
-            </svg>
-            <p className="px-6 py-1 text-lg italic">
-              Accusantium illum cupiditate harum asperiores iusto quos quasi
-              quis quae! Fugit doloribus, voluptatum quidem magnam velit
-              excepturi nobis, reprehenderit ducimus incidunt quisquam quae
-              veritatis, quos iure harum.
+        <div className="flex flex-col max-w-sm mx-4 mb-16 ">
+          <div className="flex flex-col items-center justify-center p-8 rounded-b-lg dark:bg-violet-400 dark:text-gray-900">
+            <img
+              src="https://source.unsplash.com/50x50/?portrait?1"
+              alt=""
+              className="w-28 h-28 -mt-16 bg-center bg-cover rounded-full dark:bg-gray-500 dark:bg-gray-700"
+            />
+            <p className="text-xl font-semibold leading-tight">
+              Distinctio Animi
             </p>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 512 512"
-              className="absolute bottom-0 right-0 w-8 h-8 dark:text-gray-700"
-            >
-              <path
-                fill="currentColor"
-                d="M280,185.143V416H496V16H457.6ZM464,384H312V198.857L464,54.1Z"
-              ></path>
-              <path
-                fill="currentColor"
-                d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"
-              ></path>
-            </svg>
           </div>
-          <span className="w-12 h-1 my-2 rounded-lg dark:bg-violet-400"></span>
-          <p>Leroy Jenkins</p>
+          <div className="rounded-t-lg sm:px-8 md:px-12 dark:bg-gray-900">
+            <p className="relative text-lg  text-center">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="w-6 h-6 dark:text-violet-400"
+              >
+                <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
+                <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
+              </svg>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+              Voluptatibus quibusdam, eligendi exercitationem molestias possimus
+              facere.
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="absolute right-0 w-8 h-8 dark:text-violet-400"
+              >
+                <path d="M280,185.143V416H496V16H457.6ZM464,384H312V198.857L464,54.1Z"></path>
+                <path d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"></path>
+              </svg>
+            </p>
+          </div>
+        </div>
+        <div className="flex flex-col max-w-sm mx-4 mb-16 ">
+          <div className="flex flex-col items-center justify-center p-8 rounded-b-lg dark:bg-violet-400 dark:text-gray-900">
+            <img
+              src="https://source.unsplash.com/50x50/?portrait?1"
+              alt=""
+              className="w-28 h-28 -mt-16 bg-center bg-cover rounded-full dark:bg-gray-500 dark:bg-gray-700"
+            />
+            <p className="text-xl font-semibold leading-tight">
+              Distinctio Animi
+            </p>
+          </div>
+          <div className="rounded-t-lg sm:px-8 md:px-12 dark:bg-gray-900">
+            <p className="relative text-lg  text-center">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="w-6 h-6 dark:text-violet-400"
+              >
+                <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
+                <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
+              </svg>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+              Voluptatibus quibusdam, eligendi exercitationem molestias possimus
+              facere.
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512"
+                fill="currentColor"
+                className="absolute right-0 w-8 h-8 dark:text-violet-400"
+              >
+                <path d="M280,185.143V416H496V16H457.6ZM464,384H312V198.857L464,54.1Z"></path>
+                <path d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"></path>
+              </svg>
+            </p>
+          </div>
         </div>
       </div>
     </section>

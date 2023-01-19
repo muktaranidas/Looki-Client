@@ -69,7 +69,7 @@ const Navbar = () => {
             <li>
               <a
                 href="#_"
-                class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-orange-300   rounded-md shadow-sm  "
+                className="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-orange-300   rounded-md shadow-sm  "
                 data-rounded="rounded-md"
                 // data-primary="blue-600"
                 data-primary-reset="{}"
@@ -116,9 +116,8 @@ const Navbar = () => {
           <li>
             <a
               href="#_"
-              class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-orange-300   rounded-md shadow-sm  "
+              class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap hover:bg-slate-700   bg-orange-300   rounded-sm shadow-sm  "
               data-rounded="rounded-md"
-              // data-primary="blue-600"
               data-primary-reset="{}"
             >
               APPOINTMNET

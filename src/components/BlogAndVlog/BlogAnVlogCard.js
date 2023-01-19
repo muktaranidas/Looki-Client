@@ -9,8 +9,9 @@ const BlogAnVlogCard = ({ blogAndVlogs }) => {
         alt=""
         className="object-cover object-center w-full  h-72 dark:bg-gray-500"
       />
-      <h2 className="text-3xl text-center font-semibold tracking-wide">
-        Donec lectus leo
+      <h2 className="text-3xl text-center mt-4  text-black font-semibold">
+        {/* {title} */}
+        Hiifiiffii
       </h2>
     </div>
   );
