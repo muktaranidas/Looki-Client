@@ -5,7 +5,14 @@ import image2 from "../../assets/Featured-Products/2.jpg";
 import image3 from "../../assets/Featured-Products/3.jpg";
 import image4 from "../../assets/Featured-Products/4.jpg";
 // import Swiper core and required modules
-import { Navigation, Pagination, Scrollbar, A11y, Grid } from "swiper";
+import {
+  Navigation,
+  Pagination,
+  Scrollbar,
+  A11y,
+  Grid,
+  Autoplay,
+} from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
@@ -15,6 +22,7 @@ import "swiper/css/scrollbar";
 import NewArrivalCard from "./NewArrivalCard";
 import NewArrivalCardBottom from "./NewArrivalCardBottom";
 import "swiper/css/grid";
+import LeftNewArrival from "./LeftNewArrival";
 
 const NewArrival = () => {
   const newArrivals = [
@@ -66,26 +74,73 @@ const NewArrival = () => {
       image: image4,
     },
   ];
+  const leftNewArrivals = [
+    {
+      id: 1,
+      name: "Whitening & Brightening",
+      image: image1,
+      price: "1,250",
+    },
+    {
+      id: 2,
+      name: "Oily & Acne skin care",
+      image: image2,
+      price: "1,250",
+    },
+    {
+      id: 3,
+      name: "Exclusive skin care",
+      image: image3,
+      price: "1,250",
+    },
+  ];
   return (
     <div className="grid grid-cols-1 lg:grid-cols-4">
-      <div className="mx-auto ">
+      <div className="flex flex-col ">
         <h1 className="text-4xl font-bold mt-32 mb-12 text-center">
           New Arrival
         </h1>
-        <img src={img1} alt="" className=" p-8 w-screen	" />
+        <div className="w-5/6	 mx-auto">
+          {" "}
+          <Swiper
+            // install Swiper modules
+            modules={[Navigation, Autoplay, Grid, Pagination, Scrollbar, A11y]}
+            spaceBetween={10}
+            slidesPerView={1}
+            navigation
+            // pagination={{ clickable: true }}
+            // scrollbar={{ draggable: true }}
+            autoplay={{
+              delay: 2500,
+              disableOnInteraction: false,
+            }}
+            loop={true}
+            onSwiper={(swiper) => console.log(swiper)}
+            onSlideChange={() => console.log("slide change")}
+          >
+            <div className="grid grid-cols-1">
+              {leftNewArrivals.map((leftNewArrival) => (
+                <SwiperSlide key={leftNewArrival.id}>
+                  <LeftNewArrival
+                    leftNewArrival={leftNewArrival}
+                  ></LeftNewArrival>
+                </SwiperSlide>
+              ))}
+            </div>
+          </Swiper>
+        </div>
       </div>
       <div className="col-span-3">
         <Swiper
           slidesPerView={3}
           grid={{
             rows: 2,
-            cols: 3,
+            fill: "row",
           }}
           spaceBetween={20}
-          pagination={{
-            clickable: true,
-          }}
-          modules={[Grid, Pagination]}
+          navigation={true}
+          scrollbar={{ draggable: true }}
+          modules={[Navigation, Scrollbar, Grid, Pagination]}
           className="mySwiper"
         >
           <div>

@@ -1,8 +1,9 @@
 import React from "react";
-import image1 from "../../assets/Featured-Products/1.jpg";
-import image2 from "../../assets/Featured-Products/2.jpg";
-import image3 from "../../assets/Featured-Products/3.jpg";
-import image4 from "../../assets/Featured-Products/4.jpg";
+import image1 from "../../assets/Blog&Vlog/1.jpg";
+import image2 from "../../assets/Blog&Vlog/2.jpg";
+import image3 from "../../assets/Blog&Vlog/3.jpg";
+import image4 from "../../assets/Blog&Vlog/4.jpg";
+
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper";
 
@@ -19,25 +20,25 @@ const BlogAndVlog = () => {
   const blogAndVlogs = [
     {
       id: 1,
-      title: "Whitening & Brightening",
+      title: "রোগের প্রতিষেধক ফাইবার ",
       image: image1,
       price: "1,250",
     },
     {
       id: 2,
-      title: "Oily & Acne skin care",
+      title: "ইমোশন নিয়ন্ত্রণে সফট ড্রিঙ্কস ",
       image: image2,
       price: "1,250",
     },
     {
       id: 3,
-      title: "Exclusive skin care",
+      title: "রোগের প্রতিষেধক ফাইবার ",
       image: image3,
       price: "1,250",
     },
     {
       id: 4,
-      title: "Moisturizer",
+      title: "ইমোশন নিয়ন্ত্রণে সফট ড্রিঙ্কস ",
       image: image4,
       price: "1,250",
     },
@@ -85,9 +86,9 @@ const BlogAndVlog = () => {
           onSlideChange={() => console.log("slide change")}
         >
           <div className="grid lg:grid-cols-4  justify-center items-center ">
-            {blogAndVlogs.map((blogAndVlog) => (
-              <SwiperSlide key={blogAndVlogs.id}>
-                <BlogAnVlogCard blogAndVlogs={blogAndVlogs}></BlogAnVlogCard>
+            {blogAndVlogs?.map((blogAndVlog) => (
+              <SwiperSlide key={blogAndVlog.id}>
+                <BlogAnVlogCard blogAndVlog={blogAndVlog}></BlogAnVlogCard>
               </SwiperSlide>
             ))}
           </div>

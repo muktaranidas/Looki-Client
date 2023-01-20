@@ -10,6 +10,7 @@ import OurTestimonial from "../../OurTestimonial/OurTestimonial";
 import TreatmentsBySkinConcern from "../../TreatmentsBySkinConcern/TreatmentsBySkinConcern";
 import YourGift from "../../YourGift/YourGift";
 import BlogAndVlog from "../../BlogAndVlog/BlogAndVlog";
+import NewLook from "../../NewLook/NewLook";
 
 const Home = () => {
   return (
@@ -17,14 +18,15 @@ const Home = () => {
       <Banner></Banner>
       <Categories></Categories>
       <FeaturedProducts></FeaturedProducts>
-      {/* <NewArrival></NewArrival> */}
+      <NewArrival></NewArrival>
       <DermoCosmetics></DermoCosmetics>
-      {/* <BestSelling></BestSelling> */}
+      <BestSelling></BestSelling>
       <PersonalizedTreatment></PersonalizedTreatment>
       <TreatmentsBySkinConcern></TreatmentsBySkinConcern>
       <OurTestimonial></OurTestimonial>
       <YourGift></YourGift>
       <BlogAndVlog></BlogAndVlog>
+      <NewLook></NewLook>
     </div>
   );
 };

@@ -5,18 +5,26 @@ import image2 from "../../assets/Featured-Products/2.jpg";
 import image3 from "../../assets/Featured-Products/3.jpg";
 import image4 from "../../assets/Featured-Products/4.jpg";
 // import Swiper core and required modules
-import { Navigation, Pagination, Scrollbar, A11y } from "swiper";
+import {
+  Navigation,
+  Pagination,
+  Scrollbar,
+  A11y,
+  Autoplay,
+  Grid,
+} from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-// import NewArrivalCard from "./NewArrivalCard";
-// import NewArrivalCardBottom from "./NewArrivalCardBottom";
+
+import RightBestSelling from "./RightBestSellings";
+import BestSellingCard from "./BestSellingCard";
 
 const BestSelling = () => {
-  const newArrivals = [
+  const leftBestSellings = [
     {
       id: 1,
       name: "Whitening & Brightening",
@@ -65,37 +73,85 @@ const BestSelling = () => {
       image: image4,
     },
   ];
+  const rightBestSellings = [
+    {
+      id: 1,
+      name: "Whitening & Brightening",
+      image: image1,
+      price: "1,250",
+    },
+    {
+      id: 2,
+      name: "Oily & Acne skin care",
+      image: image2,
+      price: "1,250",
+    },
+    {
+      id: 3,
+      name: "Exclusive skin care",
+      image: image3,
+      price: "1,250",
+    },
+  ];
   return (
     <div className="grid grid-cols-1 lg:grid-cols-4">
-      <div className="mx-auto ">
+      <div className="flex flex-col">
         <h1 className="text-4xl font-bold mt-32 mb-12 text-center">
-          New Arrival
+          Best Selling
         </h1>
-        <img src={img1} alt="" className=" p-8 w-screen	" />
+        <div className="w-5/6	 mx-auto">
+          <Swiper
+            // install Swiper modules
+            modules={[Navigation, Autoplay, Grid, Pagination, Scrollbar, A11y]}
+            spaceBetween={10}
+            slidesPerView={1}
+            navigation
+            // pagination={{ clickable: true }}
+            // scrollbar={{ draggable: true }}
+            autoplay={{
+              delay: 2500,
+              disableOnInteraction: false,
+            }}
+            loop={true}
+            onSwiper={(swiper) => console.log(swiper)}
+            onSlideChange={() => console.log("slide change")}
+          >
+            <div className="grid grid-cols-1">
+              {rightBestSellings.map((rightBestSelling) => (
+                <SwiperSlide key={rightBestSelling.id}>
+                  <RightBestSelling
+                    rightBestSelling={rightBestSelling}
+                  ></RightBestSelling>
+                </SwiperSlide>
+              ))}
+            </div>
+          </Swiper>
+        </div>
       </div>
-      <Swiper
-        className=" col-span-2"
-        // install Swiper modules
-        modules={[Navigation, A11y]}
-        spaceBetween={2}
-        slidesPerView={3}
-        navigation
-        // pagination={{ clickable: true }}
-        // scrollbar={{ draggable: true }}
-        onSwiper={(swiper) => console.log(swiper)}
-        onSlideChange={() => console.log("slide change")}
-      >
-        {/* <div className="grid lg:grid-cols-3 col-span-3">
-          {newArrivals?.map((newArrival) => (
-            <SwiperSlide key={newArrival.id}>
-              <NewArrivalCard newArrival={newArrival}></NewArrivalCard>
-              <NewArrivalCardBottom
-                newArrival={newArrival}
-              ></NewArrivalCardBottom>
-            </SwiperSlide>
-          ))}
-        </div> */}
-      </Swiper>
+      <div className="col-span-3">
+        <Swiper
+          slidesPerView={3}
+          grid={{
+            rows: 2,
+            fill: "row",
+          }}
+          spaceBetween={20}
+          navigation={true}
+          scrollbar={{ draggable: true }}
+          modules={[Navigation, Scrollbar, Grid, Pagination]}
+          className="mySwiper"
+        >
+          <div>
+            {leftBestSellings?.map((leftBestSelling) => (
+              <SwiperSlide key={leftBestSelling.id}>
+                <BestSellingCard
+                  leftBestSelling={leftBestSelling}
+                ></BestSellingCard>
+              </SwiperSlide>
+            ))}
+          </div>
+        </Swiper>
+      </div>
     </div>
   );
 };
