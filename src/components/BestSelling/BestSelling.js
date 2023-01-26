@@ -14,7 +14,7 @@ import {
   Grid,
 } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
-// Import Swiper styles
+
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
@@ -94,41 +94,8 @@ const BestSelling = () => {
     },
   ];
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-4">
-      <div className="flex flex-col">
-        <h1 className="text-4xl font-bold mt-32 mb-12 text-center">
-          Best Selling
-        </h1>
-        <div className="w-5/6	 mx-auto">
-          <Swiper
-            // install Swiper modules
-            modules={[Navigation, Autoplay, Grid, Pagination, Scrollbar, A11y]}
-            spaceBetween={10}
-            slidesPerView={1}
-            navigation
-            // pagination={{ clickable: true }}
-            // scrollbar={{ draggable: true }}
-            autoplay={{
-              delay: 2500,
-              disableOnInteraction: false,
-            }}
-            loop={true}
-            onSwiper={(swiper) => console.log(swiper)}
-            onSlideChange={() => console.log("slide change")}
-          >
-            <div className="grid grid-cols-1">
-              {rightBestSellings.map((rightBestSelling) => (
-                <SwiperSlide key={rightBestSelling.id}>
-                  <RightBestSelling
-                    rightBestSelling={rightBestSelling}
-                  ></RightBestSelling>
-                </SwiperSlide>
-              ))}
-            </div>
-          </Swiper>
-        </div>
-      </div>
-      <div className="col-span-3">
+    <div className="grid grid-cols-1 mx-auto   lg:grid-cols-5">
+      <div className="col-span-3  ">
         <Swiper
           slidesPerView={3}
           grid={{
@@ -142,7 +109,7 @@ const BestSelling = () => {
           className="mySwiper"
         >
           <div>
-            {leftBestSellings?.map((leftBestSelling) => (
+            {leftBestSellings.map((leftBestSelling) => (
               <SwiperSlide key={leftBestSelling.id}>
                 <BestSellingCard
                   leftBestSelling={leftBestSelling}
@@ -151,6 +118,39 @@ const BestSelling = () => {
             ))}
           </div>
         </Swiper>
+      </div>
+      <div className="flex flex-col mx-auto">
+        <h1 className="text-4xl   font-bold mt-24 mb-12 text-center">
+          Best Selling
+        </h1>
+        <div className="w-[500px] h-[500px]	 ml-10">
+          <Swiper
+            // install Swiper modules
+            modules={[Navigation, Autoplay, Grid, Pagination, Scrollbar, A11y]}
+            spaceBetween={2}
+            slidesPerView={1}
+            navigation
+            // pagination={{ clickable: true }}
+            // scrollbar={{ draggable: true }}
+            autoplay={{
+              delay: 2500,
+              disableOnInteraction: false,
+            }}
+            loop={true}
+            onSwiper={(swiper) => console.log(swiper)}
+            onSlideChange={() => console.log("slide change")}
+          >
+            <div className="grid grid-cols-1  ">
+              {rightBestSellings.map((rightBestSelling) => (
+                <SwiperSlide key={rightBestSelling.id}>
+                  <RightBestSelling
+                    rightBestSelling={rightBestSelling}
+                  ></RightBestSelling>
+                </SwiperSlide>
+              ))}
+            </div>
+          </Swiper>
+        </div>
       </div>
     </div>
   );

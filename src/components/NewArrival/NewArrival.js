@@ -87,25 +87,19 @@ const NewArrival = () => {
       image: image2,
       price: "1,250",
     },
-    {
-      id: 3,
-      name: "Exclusive skin care",
-      image: image3,
-      price: "1,250",
-    },
   ];
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-4">
-      <div className="flex flex-col ">
-        <h1 className="text-4xl font-bold mt-32 mb-12 text-center">
+    <div className="grid grid-cols-1  lg:grid-cols-5">
+      <div className="flex flex-col col-span-2 mx-auto">
+        <h1 className="text-4xl   font-bold mt-24 mb-12 text-center">
           New Arrival
         </h1>
-        <div className="w-5/6	 mx-auto">
+        <div className="w-[500px] h-[500px]	 ml-10">
           {" "}
           <Swiper
             // install Swiper modules
             modules={[Navigation, Autoplay, Grid, Pagination, Scrollbar, A11y]}
-            spaceBetween={10}
+            spaceBetween={2}
             slidesPerView={1}
             navigation
             // pagination={{ clickable: true }}

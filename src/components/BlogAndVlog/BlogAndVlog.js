@@ -70,7 +70,7 @@ const BlogAndVlog = () => {
     <div className="grid grid-cols-1 lg:grid-rows-2 w-11/12 mx-auto">
       <div className="uppercase flex flex-col items-center justify-center ">
         <h1 className="text-2xl">skin care </h1>
-        <h1 className="text-orange-400 text-2xl my-3">*</h1>
+        <h1 className="text-orange-400 text-2xl ">*</h1>
         <h1 className="text-5xl">blog & vlog</h1>
       </div>
       <div>

@@ -1,9 +1,9 @@
 import React from "react";
 
-const BestSellingCard = (leftBestSelling) => {
+const BestSellingCard = ({ leftBestSelling }) => {
   const { name, image, price } = leftBestSelling;
   return (
-    <div className="max-w-xs rounded-md mb-6 shadow-md bg-white text-black-600">
+    <div className="max-w-xs rounded-md mb-6 shadow-md text-black-600">
       <img
         src={image}
         alt=""
