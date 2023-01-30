@@ -39,7 +39,7 @@ const Login = () => {
                 className="rounded-sm border-violet-400 "
               />
               <label for="remember" className=" ml-2 text-gray-600">
-                Remember me
+                Remember Me
               </label>
             </div>
             <div className="  text-gray-600">
