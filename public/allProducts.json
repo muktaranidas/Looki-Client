@@ -1,9 +1,8 @@
 [
   {
-    "'id": 1,
     "name": " Glicina Joints",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -16,10 +15,9 @@
     "image": "https://images.unsplash.com/photo-1557205465-f3762edea6d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 2,
     "name": "Glicina Joints ",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -32,10 +30,9 @@
     "image": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 3,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "spot-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -48,10 +45,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 4,
     "name": " Glicina Joints",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -64,10 +60,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 5,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -80,10 +75,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 6,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "whitening-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -96,10 +90,9 @@
     "image": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 7,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -112,10 +105,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 8,
     "name": " Glicina Joints",
     "category": "spot-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -128,10 +120,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 9,
     "name": " Bio Care Soothing Freckle Cream",
     "category": "spot-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -144,10 +135,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 10,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "whitening-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -160,10 +150,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 11,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "spot-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -176,10 +165,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 12,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "whitening-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -192,10 +180,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 13,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "mature-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -208,10 +195,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 14,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "daily-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -224,10 +210,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 15,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "mature-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": "Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below ",
     "ingradients": [],
@@ -235,10 +220,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 16,
     "name": "Bio Care Soothing Freckle Cream  ",
     "category": "daily-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -251,10 +235,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 17,
     "name": "Bio Care Soothing Freckle Cream  ",
     "category": "mature-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -267,10 +250,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-cosmetic-packaging_1268-1266.jpg?size=338&ext=jpg&ga=GA1.1.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 18,
     "name": " Bio Care Soothing Freckle Cream ",
     "category": "daily-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": [
@@ -283,10 +265,9 @@
     "image": "https://media.istockphoto.com/id/1202725343/es/foto/envase-cosm%C3%A9tico-de-vidrio-de-frasco-con-cuerpo-crema-facial-o-loci%C3%B3n.jpg?s=612x612&w=0&k=20&c=GCMhkm_gdjjDUKxaRoMi44I471gCs9IWkLaIxzUIMSU="
   },
   {
-    "'id": 19,
     "name": " Bio Care Soothing Freckle Cream",
     "category": "mature-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -299,10 +280,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 20,
     "name": "Novaclear Expert Protecting Cream  ",
     "category": "mature-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -315,10 +295,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 21,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "mature-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 799,
     "description": "Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core. ",
     "ingradients": [
@@ -331,10 +310,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 22,
     "name": "Novaclear Expert Protecting Cream  ",
     "category": "daily-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -342,10 +320,9 @@
     "image": "https://media.istockphoto.com/id/1202725343/es/foto/envase-cosm%C3%A9tico-de-vidrio-de-frasco-con-cuerpo-crema-facial-o-loci%C3%B3n.jpg?s=612x612&w=0&k=20&c=GCMhkm_gdjjDUKxaRoMi44I471gCs9IWkLaIxzUIMSU="
   },
   {
-    "'id": 23,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "mature-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 30,
     "description": " Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below",
     "ingradients": [
@@ -358,10 +335,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 24,
     "name": " Novaclear Expert Protecting Cream ",
     "category": "mature-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 399,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": [
@@ -374,10 +350,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-vector-with-honey-drips_88138-220.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 25,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "mature-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": [
@@ -390,10 +365,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 26,
     "name": " Novaclear Advanced Brightening Serum",
     "category": "daily-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -401,10 +375,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 27,
     "name": " Novaclear Expert Protecting Cream ",
     "category": "whitening-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -412,10 +385,9 @@
     "image": "https://img.freepik.com/free-psd/glossy-plastic-cosmetic-bottle-mockup_47987-5483.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 28,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "daily-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "  Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -423,10 +395,9 @@
     "image": "https://img.freepik.com/free-vector/hydration-moisturizing-solution-poster_1284-9752.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 29,
     "name": "Novaclear Redless Soothing Night Cream ",
     "category": "whitening-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -434,10 +405,9 @@
     "image": "https://img.freepik.com/free-psd/cosmetic-jar-branding-mockup_47987-7441.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 30,
     "name": " Novaclear Advanced Brightening Serum",
     "category": "daily-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below ",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -445,10 +415,9 @@
     "image": "https://img.freepik.com/free-psd/cosmetic-bottle-packaging-mockup_47987-4340.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 31,
     "name": " Novaclear Redless Soothing Night Cream",
     "category": "whitening-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "  Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -461,10 +430,9 @@
     "image": "https://img.freepik.com/free-psd/glossy-plastic-cosmetic-cream-jar-packaging-mockup_47987-7212.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 32,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "daily-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 30,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -472,10 +440,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-cosmetic-packaging_1268-1266.jpg?size=338&ext=jpg&ga=GA1.1.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 33,
     "name": " Novaclear Redless Soothing Night Cream",
     "category": "premium-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -483,10 +450,9 @@
     "image": "https://images.pexels.com/photos/2587176/pexels-photo-2587176.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 34,
-    "name": "Novaclear Redless Soothing Night Cream ",
+    "name": "Novaclear Redless Soothing Night Cream",
     "category": "premium-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core. ",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -494,10 +460,9 @@
     "image": "https://images.pexels.com/photos/13009551/pexels-photo-13009551.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 35,
     "name": "Capilap Hair Care ",
     "category": "premium-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -505,10 +470,9 @@
     "image": "https://images.pexels.com/photos/7796985/pexels-photo-7796985.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 36,
     "name": "Capilap Hair Care ",
     "category": "premium-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 499,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -516,10 +480,9 @@
     "image": "https://images.pexels.com/photos/8605912/pexels-photo-8605912.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 37,
     "name": " Chitosan+ Fat burning",
     "category": "premium-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 30,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -527,10 +490,9 @@
     "image": "https://images.pexels.com/photos/7797006/pexels-photo-7797006.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 38,
     "name": "Chitosan+ Fat burning",
     "category": "premium-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -538,10 +500,9 @@
     "image": "https://images.pexels.com/photos/6847821/pexels-photo-6847821.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 39,
     "name": " Capilap Hair Care",
     "category": "premium-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 799,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -549,10 +510,9 @@
     "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 40,
     "name": "Chitosan+ Fat burning ",
     "category": "premium-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -560,10 +520,9 @@
     "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 1,
     "name": " Glicina Joints",
     "category": "premium-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -576,10 +535,9 @@
     "image": "https://images.unsplash.com/photo-1557205465-f3762edea6d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 2,
     "name": "Glicina Joints ",
     "category": "moisturizer-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -592,10 +550,9 @@
     "image": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 3,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "moisturizer-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -608,10 +565,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 4,
     "name": " Glicina Joints",
     "category": "moisturizer-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -624,10 +580,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 5,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "moisturizer-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -640,10 +595,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 6,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "moisturizer-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -656,10 +610,9 @@
     "image": "https://images.unsplash.com/photo-1584949514123-474cfa705dfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "id": 7,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "moisturizer-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -672,10 +625,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 8,
     "name": " Glicina Joints",
     "category": "moisturizer-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -688,10 +640,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 9,
     "name": " Bio Care Soothing Freckle Cream",
     "category": "moisturizer-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -704,10 +655,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 10,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "moisturizer-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 399,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -720,10 +670,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 11,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "whitening-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -736,10 +685,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 12,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "moisturizer-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -752,10 +700,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 13,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "moisturizer-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 399,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -768,10 +715,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 14,
     "name": "Mesotech Tricocure Hair Energy Boost ",
     "category": "oily-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -784,10 +730,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 15,
     "name": "Bio Care Soothing Freckle Cream ",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": "Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below ",
     "ingradients": [],
@@ -795,10 +740,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 16,
     "name": "Bio Care Soothing Freckle Cream  ",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 799,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -811,10 +755,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 17,
     "name": "Bio Care Soothing Freckle Cream  ",
     "category": "oily-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 999,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -827,10 +770,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-cosmetic-packaging_1268-1266.jpg?size=338&ext=jpg&ga=GA1.1.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 18,
     "name": " Bio Care Soothing Freckle Cream ",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 999,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": [
@@ -843,10 +785,9 @@
     "image": "https://media.istockphoto.com/id/1202725343/es/foto/envase-cosm%C3%A9tico-de-vidrio-de-frasco-con-cuerpo-crema-facial-o-loci%C3%B3n.jpg?s=612x612&w=0&k=20&c=GCMhkm_gdjjDUKxaRoMi44I471gCs9IWkLaIxzUIMSU="
   },
   {
-    "'id": 19,
     "name": " Bio Care Soothing Freckle Cream",
     "category": "exclusive-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 799,
     "description": "Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below ",
     "ingradients": [
@@ -859,10 +800,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 20,
     "name": "Novaclear Expert Protecting Cream  ",
     "category": "exclusive-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 399,
     "description": "Are you looking for a brightening serum that can make your skin younger too? We have heard you. So let’s look down the description below to have your solution- ",
     "ingradients": [
@@ -875,10 +815,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 21,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "oily-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 799,
     "description": "Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core. ",
     "ingradients": [
@@ -891,10 +830,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 22,
     "name": "Novaclear Expert Protecting Cream  ",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -902,10 +840,9 @@
     "image": "https://media.istockphoto.com/id/1202725343/es/foto/envase-cosm%C3%A9tico-de-vidrio-de-frasco-con-cuerpo-crema-facial-o-loci%C3%B3n.jpg?s=612x612&w=0&k=20&c=GCMhkm_gdjjDUKxaRoMi44I471gCs9IWkLaIxzUIMSU="
   },
   {
-    "'id": 23,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "oily-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": " Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below",
     "ingradients": [
@@ -918,10 +855,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-cream-packaging_1268-1265.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 24,
     "name": " Novaclear Expert Protecting Cream ",
     "category": "exclusive-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 399,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": [
@@ -934,10 +870,9 @@
     "image": "https://img.freepik.com/free-vector/cosmetic-vector-with-honey-drips_88138-220.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 25,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "exclusive-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": [
@@ -950,10 +885,9 @@
     "image": "https://img.freepik.com/free-vector/daisy-realistic-golden-composition_1284-24267.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 26,
     "name": " Novaclear Advanced Brightening Serum",
     "category": "oily-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -961,10 +895,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-natural-cream-ad-template_52683-19299.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 27,
     "name": " Novaclear Expert Protecting Cream ",
     "category": "exclusive-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 399,
     "description": "Do you want to strengthen your hair by it’s structure? Then we have your solution. Let’s look down the description below ",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -972,10 +905,9 @@
     "image": "https://img.freepik.com/free-psd/glossy-plastic-cosmetic-bottle-mockup_47987-5483.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 28,
     "name": "Novaclear Advanced Brightening Serum ",
     "category": "exclusive-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "  Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
@@ -983,10 +915,9 @@
     "image": "https://img.freepik.com/free-vector/hydration-moisturizing-solution-poster_1284-9752.jpg?size=338&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 29,
     "name": "Novaclear Redless Soothing Night Cream ",
     "category": "exclusive-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 399,
     "description": " Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -994,10 +925,9 @@
     "image": "https://img.freepik.com/free-psd/cosmetic-jar-branding-mockup_47987-7441.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 30,
     "name": " Novaclear Advanced Brightening Serum",
     "category": "exclusive-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 30,
     "description": "Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below ",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -1005,10 +935,9 @@
     "image": "https://img.freepik.com/free-psd/cosmetic-bottle-packaging-mockup_47987-4340.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 31,
     "name": " Novaclear Redless Soothing Night Cream",
     "category": "whitening-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "  Do you want to repair your skin tissues and also balancing collagen of skin? We have the best supplement for you. So let’s quickly look down the description below",
     "ingradients": [
@@ -1021,10 +950,9 @@
     "image": "https://img.freepik.com/free-psd/glossy-plastic-cosmetic-cream-jar-packaging-mockup_47987-7212.jpg?size=626&ext=jpg&ga=GA1.2.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 32,
     "name": " Mesotech Tricocure Hair Energy Boost",
     "category": "exclusive-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 30,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -1032,10 +960,9 @@
     "image": "https://img.freepik.com/free-vector/realistic-cosmetic-packaging_1268-1266.jpg?size=338&ext=jpg&ga=GA1.1.821203553.1657130385&semt=sph"
   },
   {
-    "'id": 33,
     "name": " Novaclear Redless Soothing Night Cream",
     "category": "whitening-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 30,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -1043,10 +970,9 @@
     "image": "https://images.pexels.com/photos/2587176/pexels-photo-2587176.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 34,
     "name": "Novaclear Redless Soothing Night Cream ",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 399,
     "description": "Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core. ",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -1054,10 +980,9 @@
     "image": "https://images.pexels.com/photos/13009551/pexels-photo-13009551.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 35,
     "name": "Capilap Hair Care ",
     "category": "exclusive-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 799,
     "description": " Tricocure is the most revolutionary and complete formula to reduce the main hair loss causes. The formula of Tricocure is enriched with numerous active ingredients: Vascular regrowth factor, Cutaneous microcirculation enhancer, 5-alpha reductase inhibitors and a pool of nutrients and restructuring ingredients are the Tricocure core.",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -1065,10 +990,9 @@
     "image": "https://images.pexels.com/photos/7796985/pexels-photo-7796985.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 36,
     "name": "Capilap Hair Care ",
     "category": "exclusive-category",
-    "sub-category": "special-offer",
+    "subCategory": "special-offer",
     "price": 499,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -1076,10 +1000,9 @@
     "image": "https://images.pexels.com/photos/8605912/pexels-photo-8605912.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 37,
     "name": " Chitosan+ Fat burning",
     "category": "exclusive-category",
-    "sub-category": "best-selling",
+    "subCategory": "best-selling",
     "price": 30,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -1087,10 +1010,9 @@
     "image": "https://images.pexels.com/photos/7797006/pexels-photo-7797006.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 38,
     "name": "Chitosan+ Fat burning",
     "category": "oily-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Hyaluronic Acid", "Rice Extract", "Cetearyl Alcohol"],
@@ -1098,10 +1020,9 @@
     "image": "https://images.pexels.com/photos/6847821/pexels-photo-6847821.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
-    "'id": 39,
     "name": " Capilap Hair Care",
     "category": "oily-category",
-    "sub-category": "featured-product",
+    "subCategory": "featured-product",
     "price": 799,
     "description": " Are you looking for a sun protection cream for your skin that can save you from sun damage, sun spots, dark spots and finally the dangerous effect of Melasma due to sun damage? Then to get the solution let’s see the product description down below-",
     "ingradients": ["Glutathione", "Retinol", "Vitamin C"],
@@ -1109,10 +1030,9 @@
     "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGJlYXV0eSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "'id": 40,
     "name": "Chitosan+ Fat burning ",
     "category": "whitening-category",
-    "sub-category": "new-arrival",
+    "subCategory": "new-arrival",
     "price": 999,
     "description": " Are you wishing to block calories and also control your appetite through supplement? Your wish is our command. We have the best supplement for you. Let’s look down the description below",
     "ingradients": ["Amino Acids", "Serenoa Serrulata", "Vitamins", "Minerals"],
