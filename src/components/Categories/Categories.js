@@ -17,13 +17,6 @@ const Categories = () => {
       .then((data) => setCategories(data));
   }, []);
 
-  // const [categories, setCategories] = useState([]);
-  // useEffect(() => {
-  //   fetch("http://localhost:5000/categories")
-  //     .then((res) => res.json())
-  //     .then((data) => setCategories(data));
-  // }, []);
-
   return (
     <div>
       <div className="flex items-center pt-4 mt-4">
@@ -33,7 +26,7 @@ const Categories = () => {
         </p>
         <div className="flex-1 h-px sm:w-16 bg-orange-200 "></div>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-4 bg-white w-11/12 my-8	mx-auto">
+      <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 bg-white w-11/12 my-8	mx-auto">
         {categories?.map((category) => (
           <Category key={category?.id} category={category}></Category>
         ))}

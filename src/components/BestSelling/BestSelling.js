@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import img1 from "../../assets/Categories/1.jpg";
 import image1 from "../../assets/Featured-Products/1.jpg";
 import image2 from "../../assets/Featured-Products/2.jpg";
@@ -24,55 +24,13 @@ import RightBestSelling from "./RightBestSellings";
 import BestSellingCard from "./BestSellingCard";
 
 const BestSelling = () => {
-  const leftBestSellings = [
-    {
-      id: 1,
-      name: "Whitening & Brightening",
-      image: image1,
-      price: "1,250",
-    },
-    {
-      id: 2,
-      name: "Oily & Acne skin care",
-      image: image2,
-      price: "1,250",
-    },
-    {
-      id: 3,
-      name: "Exclusive skin care",
-      image: image3,
-      price: "1,250",
-    },
-    {
-      id: 4,
-      name: "Moisturizer",
-      image: image4,
-      price: "1,250",
-    },
-    {
-      id: 5,
-      name: "Premium skinclinic products",
-      image: image1,
-      price: "1,250",
-    },
-    {
-      id: 6,
-      name: "Daily skin care",
-      image: image2,
-      price: "1,250",
-    },
-    {
-      id: 7,
-      name: "Mature skin care",
-      image: image3,
-      price: "1,250",
-    },
-    {
-      id: 8,
-      name: "Hyperpigmentation, Spot & Scar",
-      image: image4,
-    },
-  ];
+  const [leftBestSellings, setLeftBestSellings] = useState([]);
+  useEffect(() => {
+    fetch("http://localhost:5000/allproduct/best-selling")
+      .then((res) => res.json())
+      .then((data) => setLeftBestSellings(data));
+  }, []);
+
   const rightBestSellings = [
     {
       id: 1,

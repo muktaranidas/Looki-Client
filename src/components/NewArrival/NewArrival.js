@@ -28,9 +28,9 @@ const NewArrival = () => {
   const [newArrivals, setNewArrivals] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/new-arrival/new-arrival")
+    fetch("http://localhost:5000/allproduct/new-arrival")
       .then((res) => res.json())
-      .then((data) => console.log(data));
+      .then((data) => setNewArrivals(data));
   }, []);
 
   const leftNewArrivals = [
