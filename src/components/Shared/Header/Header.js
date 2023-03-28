@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import navLogo from "../../../assets/navLogo.jpg";
 import Nav from "../Nav/Nav";
 import Navbar from "../Navbar/Navbar";
 
@@ -16,11 +17,7 @@ const Header = () => {
               aria-label="Back to homepage"
               className="flex items-center p-2"
             >
-              <img
-                src="https://dhakabankltd.com/wp-content/themes/dhakabankupdate/images/ssl-commerze/bio-xin-cosmeceuticals.png"
-                alt=""
-                className="w-20"
-              />
+              <img src={navLogo} alt="" className="w-20" />
             </a>
             <ul className="items-stretch hidden space-x-3 lg:flex">
               <li className="flex">

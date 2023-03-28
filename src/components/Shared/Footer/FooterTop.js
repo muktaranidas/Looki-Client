@@ -1,6 +1,6 @@
 import React from "react";
 import "./FooterTop.css";
-import navLogo from "../../../assets/navLogo.png";
+import navLogo from "../../../assets/navLogo.jpg";
 import googlePlay from "../../../assets/google-play-icon.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { FaGooglePlay } from "react-icons/fa";
@@ -122,7 +122,7 @@ const FooterTop = () => {
           <div className="flex flex-col relative space-y-4">
             <h2>
               <img
-                className="w-28 absolute -top-5  text-teal-accent-400"
+                className="w-28 h-24 absolute -top-5  text-teal-accent-400"
                 src={navLogo}
                 alt=""
               />

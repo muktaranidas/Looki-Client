@@ -12,7 +12,7 @@ const Banner = () => {
         <div className="mt-24 ml-24">
           <h1 className="py-3 text-xl">Worried About Your Skin?</h1>
           <h1 className="text-5xl  text-orange-300 mb-16 font-bold">
-            BIO-XIN
+            PIO-PIN
             <br />
             <span className="py-1">SKIN CARE TREATMENT</span>
           </h1>

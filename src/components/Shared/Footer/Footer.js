@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <footer className="footer 	grid lg:grid-cols-3  relative  p-6 footerbgcolor text-white">
       <div className="mx-auto">
-        <p>Copyright 2023 © Bio-Xin Cosmeceuticals </p>
+        <p>Copyright 2023 © Pio-Pin Cosmeceuticals </p>
       </div>
 
       <div className="mx-auto">
