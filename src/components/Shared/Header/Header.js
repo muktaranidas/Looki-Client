@@ -26,7 +26,7 @@ const Header = () => {
                   href="#"
                   className="flex items-center px-4  mr-20  font-bold text-xl tracking-tighter"
                 >
-                  DOWNLOAD THE BIO-XIN APP & DISCOVER YOUR TRUE BEAUTY
+                  DOWNLOAD THE PIO-PIN APP & DISCOVER YOUR TRUE BEAUTY
                 </a>
               </li>
               <button className="">
